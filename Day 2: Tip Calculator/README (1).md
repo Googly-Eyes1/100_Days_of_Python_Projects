@@ -14,3 +14,4 @@ This project involves understanding the data types and how to manipulate strings
 
 
 ## Demo
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/3d8271ed-513e-4fc2-b02c-cc5d1daab14f)
